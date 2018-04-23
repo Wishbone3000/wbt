@@ -1,0 +1,93 @@
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Waddell, AZ",
+		"city":"Waddell",
+		"state":"AZ",
+		"state_name":"Arizona",
+		"country":"US",
+		"country_iso3166":"US",
+		"zip":"85355",
+		"magic":"1",
+		"wmo":"99999",
+		"latitude":"33.56999969",
+		"longitude":"-112.43000031",
+		"elevation":"369.4"
+		},
+		"observation_location": {
+		"full":"Glendale Luke AFB, Arizona",
+		"city":"Glendale Luke AFB",
+		"state":"Arizona",
+		"country":"US",
+		"country_iso3166":"US",
+		"latitude":"33.56",
+		"longitude":"-112.45",
+		"elevation":"1237 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"KAZWADDE17",
+		"observation_time":"Last Updated on April 22, 7:53 PM MST",
+		"observation_time_rfc822":"Sun, 22 Apr 2018 19:53:00 -0700",
+		"observation_epoch":"1524451980",
+		"local_time_rfc822":"Sun, 22 Apr 2018 19:53:02 -0700",
+		"local_epoch":"1524451982",
+		"local_tz_short":"MST",
+		"local_tz_long":"America/Phoenix",
+		"local_tz_offset":"-0700",
+		"weather":"Partly Cloudy",
+		"temperature_string":"83.5 F (28.6 C)",
+		"temp_f":83.5,
+		"temp_c":28.6,
+		"relative_humidity":"11%",
+		"wind_string":"From the WSW at 2.2 MPH Gusting to 2.2 MPH",
+		"wind_dir":"WSW",
+		"wind_degrees":237,
+		"wind_mph":2.2,
+		"wind_gust_mph":"2.2",
+		"wind_kph":3.5,
+		"wind_gust_kph":"3.5",
+		"pressure_mb":"1007",
+		"pressure_in":"29.75",
+		"pressure_trend":"0",
+		"dewpoint_string":"24 F (-5 C)",
+		"dewpoint_f":24,
+		"dewpoint_c":-5,
+		"heat_index_string":"81 F (27 C)",
+		"heat_index_f":81,
+		"heat_index_c":27,
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"81 F (27 C)",
+		"feelslike_f":"81",
+		"feelslike_c":"27",
+		"visibility_mi":"10.0",
+		"visibility_km":"16.1",
+		"solarradiation":"0",
+		"UV":"0.0","precip_1hr_string":"0.00 in ( 0 mm)",
+		"precip_1hr_in":"0.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.00 in (0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0",
+		"icon":"partlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+		"forecast_url":"http://www.wunderground.com/US/AZ/Waddell.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KAZWADDE17",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=33.560680,-112.451447",
+		"nowcast":""
+	}
+}
